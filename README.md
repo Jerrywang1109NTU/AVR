@@ -47,3 +47,4 @@ There are four LEDs next to the USB connector.
 ## Connection information
 
 ![polyglot-turtle-xiao pinout](https://files.jeremyherbert.net/polyglot-turtle-xiao.png)
+# AVR
